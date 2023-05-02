@@ -4,8 +4,12 @@ const skillsList = [
     { title: "Material UI", value: 80 },
     { title: "Styled components", value: 80 },
     { title: "Node JS ", value: 60 },
-    { title: "Express JS ", value: 70 },
-    { title: "Firebase", value: 70 },
+    { title: "Angular JS ", value: 70 },
+    { title: "Vue JS ", value: 70 },
+    { title: "Python", value: 70 },
+    { title: "Java", value: 70 },
+    { title: "Scrum", value: 70 },
+    { title: "SQL", value: 70 },
 ];
 const projectList = [
     {
@@ -37,7 +41,7 @@ const projectList = [
 const experienceList = [
     {
         id: 0,
-        company: "Code Hub",
+        company: "Artis Technologies",
         links: {
             website: "https://www.codehub.tn",
             facebook: "https://www.facebook.com/codehubtn/",
@@ -46,7 +50,14 @@ const experienceList = [
     },
     {
         id: 1,
-        company: "vapoter.tn",
+        company: "CharterUP",
+        links: {
+            instagram: "https://www.instagram.com/vapoter.tn/",
+        },
+    },
+    {
+        id: 2,
+        company: "Hong Kong Discovery",
         links: {
             instagram: "https://www.instagram.com/vapoter.tn/",
         },
