@@ -5,7 +5,7 @@ import AvatarImg from "../../assets/images/avatar.jpg";
 const Avatar = () => {
   const classes = useStyles();
   return (
-      <img src={AvatarImg} alt="Mehdi BHA" className={classes.avatarImg} />
+      <img src={AvatarImg} alt="Phill LIN" className={classes.avatarImg} />
   );
 };
 

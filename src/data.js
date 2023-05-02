@@ -13,8 +13,8 @@ const projectList = [
         title: "Tunflix",
         technologies: ["React JS", "Node JS", "MongoDB"],
         backgroundImage:
-            "https://cdn.cbeditz.com/cbeditz/preview/black-red-gradient-background-wallpaper-74-11614352798fbqrv1wpuv.jpg",
-        frontImage: "https://i.ibb.co/L0F7mKX/tunflix.png",
+            "https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600",
+        frontImage: "https://i.ibb.co/zNMJFTW/Webp-net-resizeimage.png",
     },
     {
         id: 2,

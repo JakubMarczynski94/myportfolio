@@ -5,7 +5,8 @@ import Mehdi from "../../assets/images/Mehdi";
 const Loader = () => {
     return (
         <LoaderContainer>
-            <Mehdi width={250} />
+            {/* <Mehdi width={250} /> */}
+            <h1>Phill Lin</h1>
         </LoaderContainer>
     );
 };

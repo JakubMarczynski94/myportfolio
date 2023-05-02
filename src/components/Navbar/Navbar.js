@@ -56,7 +56,7 @@ const Navbar = () => {
                         damping: 20,
                     }}
                 >
-                    <Logo className={classes.logo} setHomeIsActive={setHomeIsActive} />
+                    {/* <Logo className={classes.logo} setHomeIsActive={setHomeIsActive} /> */}
                     <Hidden smDown>
                         <Menu homeIsActive={homeIsActive} />
                     </Hidden>
