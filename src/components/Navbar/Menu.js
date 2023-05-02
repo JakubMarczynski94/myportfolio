@@ -120,9 +120,9 @@ const Menu = ({homeIsActive}) => {
                     {t('menu_resume')}
                 </Button>
             </motion.div>
-            <motion.div custom={5} animate={controls}>
+            {/* <motion.div custom={5} animate={controls}>
                 <LangSelector style={{ marginLeft: "32px" }} />
-            </motion.div>
+            </motion.div> */}
         </div>
     );
 };
