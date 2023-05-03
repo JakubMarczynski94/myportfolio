@@ -43,23 +43,21 @@ const experienceList = [
         id: 0,
         company: "Artis Technologies",
         links: {
-            website: "https://www.codehub.tn",
-            facebook: "https://www.facebook.com/codehubtn/",
-            instagram: "https://www.instagram.com/codehub.coworking/",
+            website: "https://artis-tech.co",
         },
     },
     {
         id: 1,
         company: "CharterUP",
         links: {
-            instagram: "https://www.instagram.com/vapoter.tn/",
+            website: "https://www.charterup.com/",
         },
     },
     {
         id: 2,
-        company: "Hong Kong Discovery",
+        company: "Tink Labs",
         links: {
-            instagram: "https://www.instagram.com/vapoter.tn/",
+            instagram: "#",
         },
     },
 ];
